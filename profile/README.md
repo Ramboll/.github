@@ -1,7 +1,7 @@
 🌈 Hello there! 🌟
 
 ## 🎨 Welcome to Ramboll on GitHub! 🖌️
-We call it: Bright ideas. Sustainable change.
+**We call it: Bright ideas. Sustainable change.**
 
 ## 🚀 What We Do
 Ramboll is a global engineering, architecture, and consultancy company with more than 18,000 experts that create sustainable solutions for governments and companies all over the world.
