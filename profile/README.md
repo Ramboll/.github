@@ -2,31 +2,24 @@
 # Welcome to Ramboll on GitHub!
 
 Hello there! 🌟
-
-We're **Ramboll**, a community of innovators, creators, and developers. Our mission is to [Your Mission Statement Here, e.g., "drive sustainable change through technological advancements"].
+We call it: Bright ideas. Sustainable change.
 
 ## What We Do
 
-At Ramboll, we're passionate about [specific tech, projects, or domain, e.g., "building scalable cloud solutions that make a difference in the real world"]. From our flagship projects to our community-driven initiatives, we're always pushing the boundaries to achieve excellence.
+Ramboll is a global engineering, architecture and consultancy company with more than 18,000 experts that create sustainable solutions for governments and companies all over the world.
 
-## Our Projects
-
-- [Project 1](#) - A brief description of Project 1.
-- [Project 2](#) - A brief description of Project 2.
+We combine insights with the power to drive positive change to our clients, in the form of ideas that can be realised and implemented.
 
 _Want to explore more? Check out our repositories!_
 
 ## Join Us
+Interested in collaborating with us or becoming a part of our team? For all inquiries, please create a ServiceNow ticket:
 
-Are you passionate about [specific domain or tech]? We're always looking for talented individuals to join our team. Feel free to reach out or explore our [contributor's guide](#).
+1. Go to our https://ramboll.service-now.com/GSP?id=sc_cat_item&table=sc_cat_item&sys_id=11ae638697aca51447977ddfe153afa9.
+2. Navigate to the "Request Collaboration with Ramboll" section.
+3. Fill out the necessary details and submit your request.
 
-## Connect With Us
-
-- 🐦 [Twitter](#)
-- 🌐 [Official Website](#)
-- 💌 Email: contact@ramboll.com
-
----
+Our team will review your ticket and get back to you promptly. We appreciate your interest in Ramboll and look forward to potential collaboration!
 
 Thank you for visiting our GitHub organization. Let's build a sustainable future together! 💡
 
