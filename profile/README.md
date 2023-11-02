@@ -11,12 +11,6 @@ We combine insights with the power to drive positive change to our clients, in t
 🔍 _Want to explore more? Check out our repositories!_
 
 ## 🤝 How to become a member
-Interested in collaborating with us or becoming a part of our team? For all inquiries, please create a ServiceNow ticket:
-
-1. 🌐 Go to our [ServiceNow Portal](https://ramboll.service-now.com/GSP?id=sc_cat_item&table=sc_cat_item&sys_id=11ae638697aca51447977ddfe153afa9).
-2. 🔍 Navigate to the "Request Collaboration with Ramboll" section.
-3. ✍️ Fill out the necessary details and submit your request.
-
-💌 Our team will review your ticket and get back to you promptly. We appreciate your interest in Ramboll and look forward to potential collaboration!
+Interested in collaborating with us or becoming a part of our team? Then please [SignUp Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 🌍 Thank you for visiting our GitHub organization. Let's build a sustainable future together! 💡
