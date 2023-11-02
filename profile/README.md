@@ -10,7 +10,4 @@ We combine insights with the power to drive positive change to our clients, in t
 
 🔍 _Want to explore more? Check out our repositories!_
 
-## 🤝 How to become a member
-Interested in collaborating with us or becoming a part of our team? Then please [SignUp Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
-
 🌍 Thank you for visiting our GitHub organization. Let's build a sustainable future together! 💡
